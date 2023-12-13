@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/JustLogix/static/css/main.5403a1dc.css",
-    "main.js": "/JustLogix/static/js/main.3a960e70.js",
+    "main.css": "/JustLogix/static/css/main.f124ee31.css",
+    "main.js": "/JustLogix/static/js/main.73174496.js",
     "static/js/787.48cfb831.chunk.js": "/JustLogix/static/js/787.48cfb831.chunk.js",
     "static/media/cv-1.jpg": "/JustLogix/static/media/cv-1.f541b8ad290033e13a8c.jpg",
     "static/media/website.jpg": "/JustLogix/static/media/website.35143c72487ac4b3696b.jpg",
@@ -46,12 +46,12 @@
     "static/media/html5.png": "/JustLogix/static/media/html5.6e4a5621783c3c8c0667.png",
     "static/media/css3.png": "/JustLogix/static/media/css3.68ba79f50e3278164cb8.png",
     "index.html": "/JustLogix/index.html",
-    "main.5403a1dc.css.map": "/JustLogix/static/css/main.5403a1dc.css.map",
-    "main.3a960e70.js.map": "/JustLogix/static/js/main.3a960e70.js.map",
+    "main.f124ee31.css.map": "/JustLogix/static/css/main.f124ee31.css.map",
+    "main.73174496.js.map": "/JustLogix/static/js/main.73174496.js.map",
     "787.48cfb831.chunk.js.map": "/JustLogix/static/js/787.48cfb831.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5403a1dc.css",
-    "static/js/main.3a960e70.js"
+    "static/css/main.f124ee31.css",
+    "static/js/main.73174496.js"
   ]
 }
