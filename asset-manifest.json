@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/JustLogix/static/css/main.c213295f.css",
-    "main.js": "/JustLogix/static/js/main.c835f8a3.js",
+    "main.js": "/JustLogix/static/js/main.5d649c02.js",
     "static/js/787.48cfb831.chunk.js": "/JustLogix/static/js/787.48cfb831.chunk.js",
     "static/media/cv-1.jpg": "/JustLogix/static/media/cv-1.f541b8ad290033e13a8c.jpg",
     "static/media/website.jpg": "/JustLogix/static/media/website.35143c72487ac4b3696b.jpg",
@@ -47,11 +47,11 @@
     "static/media/css3.png": "/JustLogix/static/media/css3.68ba79f50e3278164cb8.png",
     "index.html": "/JustLogix/index.html",
     "main.c213295f.css.map": "/JustLogix/static/css/main.c213295f.css.map",
-    "main.c835f8a3.js.map": "/JustLogix/static/js/main.c835f8a3.js.map",
+    "main.5d649c02.js.map": "/JustLogix/static/js/main.5d649c02.js.map",
     "787.48cfb831.chunk.js.map": "/JustLogix/static/js/787.48cfb831.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c213295f.css",
-    "static/js/main.c835f8a3.js"
+    "static/js/main.5d649c02.js"
   ]
 }
